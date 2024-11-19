@@ -1,0 +1,39 @@
+  
+        button{
+            background-color: palegoldenrod;
+            padding: 0.8rem;
+            border-radius: 10px;
+            font-size: x-large;
+            margin:0px 1rem;
+            width: 7rem;
+        
+        }
+        button:hover{
+            background-color: rgba(99, 171, 99, 0.438);
+            scale: 110%;
+            transition: scale .2s ease-in;
+            color: white;
+            cursor: pointer;
+            border: none;
+
+        }
+ 
+    #btn{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+     
+    }
+    #finalres,#score{
+display: block;
+text-align: center;
+font-size: larger;
+    }
+p{
+    margin-top: 0px;
+    font-size: xx-large;
+}
+#rnd{
+    font-size: x-large;
+    color: palevioletred;}
